@@ -1,4 +1,4 @@
-python.exe -m pip install --upgrade pip
+pip install --upgrade pip
 absl-py==1.4.0
 accelerate==1.6.0
 aiohappyeyeballs==2.6.1
