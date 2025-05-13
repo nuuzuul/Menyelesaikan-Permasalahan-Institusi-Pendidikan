@@ -40,7 +40,7 @@ docker run -p 3000:3000 --name metabase metabase/metabase
 Hasil dapat dilihat pada gambar nuuzuul-dashboard
 
 ## Menjalankan Sistem Machine Learning
-Model random forest yang dibuat telah dikembangkan untuk memprediksi mahasiswa yang akan dropout dengan menggunakan aplikasi web streamlit 
+Model random forest yang dibuat telah dikembangkan untuk memprediksi mahasiswa yang akan dropout dengan menggunakan aplikasi web streamlit cloud dengan mengakses link berikut: https://menyelesaikan-permasalahan-institusi-pendidikan-hptm4vgfkz5bsu.streamlit.app/
 ```
 pip install -r requirements.txt
 
