@@ -23,7 +23,7 @@ if halaman == "Beranda":
     """)
     st.image(
         "https://www.ciputramakassar.ac.id/baa/wp-content/uploads/2021/11/Article-Square-Cover-1024x1024.png",
-        use_column_width=True
+        use_container_width=True
     )
 
 # Halaman Dashboard Visualisasi
